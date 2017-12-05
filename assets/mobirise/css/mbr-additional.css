@@ -2769,7 +2769,15 @@ body {
   flex-basis: auto;
 }
 .cid-qCbQgnCsAq {
-  background-image: url("../../../assets/images/apost-1045x483.jpg");
+  background-image: url("../../../assets/images/capture-dcran-2015-03-10-15.19.49-656x434.png");
+}
+.cid-qCVl1s3Mz4 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qCVl1s3Mz4 .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qCbQmeC4RU {
   padding-top: 0px;
@@ -2779,6 +2787,9 @@ body {
 .cid-qCbQmeC4RU .mbr-text,
 .cid-qCbQmeC4RU blockquote {
   color: #767676;
+}
+.cid-qCbQmeC4RU .mbr-text DIV {
+  text-align: left;
 }
 .cid-qCfmIoOV2e {
   padding-top: 90px;
