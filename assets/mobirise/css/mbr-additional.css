@@ -1,5 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700);
+
+
 
 
 
@@ -19,14 +22,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: undefined;
+  font-family: 'Montserrat', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: undefined;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,10 +44,10 @@ body {
 }
 .display-5 {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.88rem;
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
@@ -75,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1889,16 +1892,106 @@ body {
   display: none;
 }
 .cid-qCbXBPXKEo {
-  background-image: url("../../../assets/images/conseil-en-image-toulouse-1182x787.jpg");
+  background-image: url("../../../assets/images/20-980x666.jpg");
 }
-.cid-qCbUEkksag {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qDBBidxBY8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-qCbUEkksag .mbr-text,
-.cid-qCbUEkksag blockquote {
+.cid-qDBBidxBY8 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qDBBidxBY8 .section-text {
+  padding: 2rem 0;
+  color: #149dcc;
+}
+.cid-qDBBidxBY8 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qDBBidxBY8 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qDBCy5SB5W {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qDBCy5SB5W h2 {
+  text-align: left;
+}
+.cid-qDBCy5SB5W h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qDBCy5SB5W p {
   color: #767676;
+  text-align: left;
+}
+.cid-qDBCy5SB5W .aside-content {
+  flex-basis: 100%;
+}
+.cid-qDBCy5SB5W .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qDBCy5SB5W .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qDBCy5SB5W .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qDBCy5SB5W .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qDBCy5SB5W .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qDBCy5SB5W .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-qDBCy5SB5W .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qDBCy5SB5W .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-qDBCy5SB5W .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qDBCy5SB5W .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qDBCy5SB5W .mbr-text {
+  text-align: left;
 }
 .cid-qCfmNKjjGE {
   padding-top: 90px;
@@ -1926,6 +2019,12 @@ body {
 .cid-qCfmNKjjGE .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qCfmNKjjGE H2 {
+  color: #0f7699;
+}
+.cid-qCfmNKjjGE LABEL {
+  color: #0f7699;
 }
 .cid-qCPVwFn8kj {
   padding-top: 30px;
@@ -2766,7 +2865,7 @@ body {
   flex-basis: auto;
 }
 .cid-qCbQgnCsAq {
-  background-image: url("../../../assets/images/capture-dcran-2015-03-10-15.19.49-656x434.png");
+  background-image: url("../../../assets/images/bialik2014640-1024x514.jpg");
 }
 .cid-qCVl1s3Mz4 {
   padding-top: 30px;
@@ -2776,17 +2875,84 @@ body {
 .cid-qCVl1s3Mz4 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qCbQmeC4RU {
-  padding-top: 0px;
-  padding-bottom: 30px;
+.cid-qCVl1s3Mz4 H2 {
+  color: #149dcc;
+  text-align: center;
+}
+.cid-qCVl1s3Mz4 .mbr-section-subtitle B {
+  color: #0f7699;
+}
+.cid-qDBEFX8HuP {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qCbQmeC4RU .mbr-text,
-.cid-qCbQmeC4RU blockquote {
-  color: #767676;
-}
-.cid-qCbQmeC4RU .mbr-text DIV {
+.cid-qDBEFX8HuP h2 {
   text-align: left;
+}
+.cid-qDBEFX8HuP h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qDBEFX8HuP p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qDBEFX8HuP .aside-content {
+  flex-basis: 100%;
+}
+.cid-qDBEFX8HuP .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qDBEFX8HuP .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qDBEFX8HuP .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qDBEFX8HuP .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qDBEFX8HuP .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qDBEFX8HuP .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-qDBEFX8HuP .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qDBEFX8HuP .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-qDBEFX8HuP .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qDBEFX8HuP .card-img span {
+    font-size: 40px !important;
+  }
 }
 .cid-qCfmIoOV2e {
   padding-top: 90px;
@@ -2814,6 +2980,12 @@ body {
 .cid-qCfmIoOV2e .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qCfmIoOV2e H2 {
+  color: #149dcc;
+}
+.cid-qCfmIoOV2e LABEL {
+  color: #0f7699;
 }
 .cid-qCVVAW91CQ {
   padding-top: 30px;
@@ -3277,15 +3449,48 @@ body {
   flex-basis: auto;
 }
 .cid-qCbTbxVk0u {
-  background-image: url("../../../assets/images/supreme-court-building-1209701-640-640x426.jpg");
+  background-image: url("../../../assets/images/manh-800x552.jpg");
 }
-.cid-qCbTen9x1d {
+.cid-qDBypqwMY4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qDBypqwMY4 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qDBypqwMY4 .section-text {
+  padding: 2rem 0;
+  color: #55b4d4;
+}
+.cid-qDBypqwMY4 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qDBypqwMY4 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qDBy63wHQl {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qCbTen9x1d .mbr-text,
-.cid-qCbTen9x1d blockquote {
+@media (min-width: 992px) {
+  .cid-qDBy63wHQl .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qDBy63wHQl .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qDBy63wHQl .mbr-text {
   color: #767676;
 }
 .cid-qCfmAFApkT {
@@ -3314,6 +3519,12 @@ body {
 .cid-qCfmAFApkT .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qCfmAFApkT H2 {
+  color: #0f7699;
+}
+.cid-qCfmAFApkT LABEL {
+  color: #0f7699;
 }
 .cid-qCVVFdQUM6 {
   padding-top: 30px;
