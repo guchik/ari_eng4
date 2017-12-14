@@ -1892,10 +1892,21 @@ body {
   display: none;
 }
 .cid-qCbXBPXKEo {
-  background-image: url("../../../assets/images/conseil-en-image-toulouse-1182x787.jpg");
+  background-image: url("../../../assets/images/bialik2014640-1024x514.jpg");
+}
+.cid-qDLUDfGE1m {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDLUDfGE1m H2 {
+  color: #55b4d4;
+}
+.cid-qDLUDfGE1m SPAN {
+  color: #0f7699;
 }
 .cid-qCbUEkksag {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -2769,7 +2780,7 @@ body {
   flex-basis: auto;
 }
 .cid-qCbQgnCsAq {
-  background-image: url("../../../assets/images/capture-dcran-2015-03-10-15.19.49-656x434.png");
+  background-image: url("../../../assets/images/20-980x666.jpg");
 }
 .cid-qCVl1s3Mz4 {
   padding-top: 30px;
@@ -3339,16 +3350,67 @@ body {
   flex-basis: auto;
 }
 .cid-qCbTbxVk0u {
-  background-image: url("../../../assets/images/supreme-court-building-1209701-640-640x426.jpg");
+  background-image: url("../../../assets/images/manh-800x552.jpg");
 }
-.cid-qCbTen9x1d {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qDLSPyY5wn {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qCbTen9x1d .mbr-text,
-.cid-qCbTen9x1d blockquote {
+.cid-qDLSPyY5wn h2 {
+  text-align: left;
+}
+.cid-qDLSPyY5wn h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qDLSPyY5wn p {
   color: #767676;
+  text-align: left;
+}
+.cid-qDLSPyY5wn .aside-content {
+  flex-basis: 100%;
+}
+.cid-qDLSPyY5wn .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qDLSPyY5wn .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qDLSPyY5wn .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qDLSPyY5wn .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qDLSPyY5wn .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qDLSPyY5wn .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qDLSPyY5wn .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qDLSPyY5wn .card-img span {
+    font-size: 40px !important;
+  }
 }
 .cid-qCfmAFApkT {
   padding-top: 90px;
